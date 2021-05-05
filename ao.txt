@@ -1,4 +1,6 @@
 - derotator
+- folding mirror
 - SHWFS
 - PyWFS
 - RTC
+
